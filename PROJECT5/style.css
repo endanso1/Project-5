@@ -6,9 +6,19 @@ body {
 
 /* Hero Section Styling */
 header {
-    background: url('../images/example.png') no-repeat center center/cover;
+    background: url('images/home5.jpg') no-repeat center center/cover;
     color: white;
+    height: 500px;
 }
+
+.navbar-nav .nav-link:hover {
+    
+    text-decoration: underline; /* Underline effect */
+    transition: color 0.3s ease;
+    background-color: #8b0000;
+    border-radius: 3px;
+}
+
 
 /* Footer Links */
 footer a:hover {
