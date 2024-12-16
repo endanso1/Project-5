@@ -1,0 +1,16 @@
+/* General Reset */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Hero Section Styling */
+header {
+    background: url('../images/example.png') no-repeat center center/cover;
+    color: white;
+}
+
+/* Footer Links */
+footer a:hover {
+    text-decoration: underline;
+}
